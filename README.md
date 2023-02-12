@@ -39,7 +39,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
+🐤 **I'm an Early ** 
 
 ```text
 🌞 Morning      120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.35 % 
